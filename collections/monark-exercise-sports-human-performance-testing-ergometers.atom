@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hcifitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hcifitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hcifitness.com/collections/monark-exercise-sports-human-performance-testing-ergometers.atom"/>
+  <title>Hci Fitness</title>
+  <updated>2023-05-18T13:17:23-07:00</updated>
+  <author>
+    <name>Hci Fitness</name>
+  </author>
+  <entry>
+    <id>https://hcifitness.com/products/6870675062882</id>
+    <published>2023-05-18T13:17:23-07:00</published>
+    <updated>2023-05-18T13:17:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-lc4-g3-display-electronically-controlled-ergometer"/>
+    <title>Monark LC4 G3 Display Electronically Controlled Ergometer</title>
+    <s:type></s:type>
+    <s:vendor>Hci Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/files/LC4_1-510x464.jpg?v=1684441107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hci Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>When accuracy, versatility and usability matter.<br></strong><span>The LC4 G3 Display Electronically Controlled Ergometer  is an advanced training and test bike with either constant or cadence dependent power output. Equipped with Monark’s pendulum system which enables accurate calibration of the ergometer. The resistance control system can be controlled as a stand-alone system or can be controlled from a computer with the Monark Test Software. The perfect fit frame and the 20 kg flywheel create an optimal cycling sensation.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/1333/0475/files/Monark_LC4.pdf?v=1684440717" target="_blank" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/download-brochure-button_480x480.png?v=1592250553" style="display: block; margin-left: auto; margin-right: auto;"></span></a></p>
+<p>TECHNICAL DETAILS:</p>
+<p>Certifications: EU directive 93/42/EU class IIa</p>
+<p>Handlebar: Racing handlebar</p>
+<p>Stem: Adjustable, horizontal 60 mm, vertical 500-910 mm</p>
+<p>Seatpost: Adjustable, horizontal 60 mm, vertical 530-940 mm</p>
+<p>Saddle: Moody</p>
+<p>Bottom Bracket (BB): 68/110 mm</p>
+<p>Crank: Steel, 172.5 mm</p>
+<p>pedals: 9/16″, combi SPD</p>
+<p>Resistance:</p>
+<p>System: Pendulum</p>
+<p>Flywheel: 20 kg, 44 lb</p>
+<p>Display: RPM, Time, Speed, Distance, Watt, HR (ANT+, 5k Hz)</p>
+<p>Connectivity: USB</p>
+<p>Weight &amp; measurements:</p>
+<p>Max. user weight: 180 kg, 396 lb</p>
+<p>Length: 1405 mm</p>
+<p>Width: 640 mm</p>
+<p>Height: max. 1240 mm</p>
+<p>Weight: 77 kg, 196 lb</p>
+<p>Power requirement: 220 V (12 V, 2.5 A)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/6870675062882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14999.00</s:price>
+      <s:sku>LC4</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/6868562903138</id>
+    <published>2023-05-10T11:11:26-07:00</published>
+    <updated>2023-05-10T11:11:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-891e-vo2-max-submax-testing-upper-body-ergometer"/>
+    <title>Monark 891E VO2 Max / SubMax Testing Upper Body Ergometer</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/files/Monark-891E-wingate_huvudbild.jpg?v=1683742287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>Arm ergometer for testing and training.</span></strong></p>
+<p><span>Arm ergometer with weight basket for measuring the anaerobic and aerobic capacity of the upper body.<span> </span>The calibrated weights guarantee unsurpassed accuracy, repeatability and reliability.<span> </span>The ergometer is placed on a stable stand that can be adjusted in height to provide an optimal position, both sitting and standing.</span></p>
+<p> </p>
+<p><span>Monark  891E VO2 Max / SubMax Testing Upper Body Ergometer </span></p>
+<p> </p>
+<p><span>Height Adjustable Stand Included</span></p>
+<p><em>Does <strong>not</strong> run Wingate test </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/6868562903138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7299.00</s:price>
+      <s:sku>891E</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/6564401610850</id>
+    <published>2021-06-04T09:20:42-07:00</published>
+    <updated>2021-06-04T09:20:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-lc6-novo-electronically-controlled-testing-ergometer-time-trial-ergometer-cycle"/>
+    <title>Monark LC6 NOVO Electronically Controlled Testing Cycle Ergometer</title>
+    <s:type>ergometer</s:type>
+    <s:vendor>HCI Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/lc6.jpg?v=1622823334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HCI Fitness<br>
+        <strong>Type: </strong>ergometer<br>
+        <strong>Price: </strong>
+            17999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="box"><header>
+<h2>ACSM Member Discounts Available </h2>
+<h2>
+<em>Call Now! 206-739-5400</em> </h2>
+<h2><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/ACSM_480x480.png?v=1574703952" alt="ACSM - Lode Excalibur"></h2>
+<h2><br></h2>
+<h2>Perfect Fit Frame</h2>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc6_seat_480x480.jpg?v=1574703416" alt="" width="481" height="479"></p>
+</header>
+<h3>Adjustable Seat Post</h3>
+<p>Fully adjustable setting of the seat position, within 20 cm horizontally. The seat post scale in centimeters on the side.</p>
+<p> <img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc7_handlebar_480x480.jpg?v=1574703538" alt="Monark LC7TT Time Trial Electronically Controlled Ergometer for VO2 Max Bike - Compare to Lode Excalibur"></p>
+<h3>Adjustable Handlebar</h3>
+<p>Stem and handlebar fully adjustable for height and length. With an adjustable length of 20 cm.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc7_q_480x480.jpg?v=1574703659" alt="Monark LC7TT Novo Electronically Controlled Ergometer -Compare to Lode Excalibur"></p>
+<h3>Adjustable Q-Factor</h3>
+<p>Same bottom bracket shell as ordinary road bikes and both the bottom bracket and cranks are easy to change.</p>
+<br></section>
+<hr>
+<section class="box"><header>
+<h2>NOVO Technology</h2>
+</header>
+<h3><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_control_480x480.jpg?v=1574703880" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur"></h3>
+<h3>Novo Control Unit</h3>
+<p>With the new control unit we have secured future platform for Monark Ergometers. Connections that are compatible with the most common ECG, Spirometers and other external analysis equipment.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_display_480x480.jpg?v=1574703813" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur"></p>
+<h3>Novo Display</h3>
+<p>Monark Novo display unit can run the bike direct from the Resistive LCD touch screen. It is easy to set your training target with distance, time or calories with the user friendly interface.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_motor_480x480.jpg?v=1574703924" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur"></p>
+<h3>Novo Motor</h3>
+<p>The new stronger, high quality, linear motor has superfast reactions, making the Monark novo motor unit 400% faster than previous models. This provides increased accuracy during testing, and a better ride feeling, with a more efficient workout</p>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atc_tag</s:tag>
+    <s:tag>Monark</s:tag>
+    <s:variant>
+      <id>https://hcifitness.com/products/6564401610850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17999.00</s:price>
+      <s:sku>LC6</s:sku>
+      <s:grams>106594</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4488474853474</id>
+    <published>2020-08-25T13:03:29-07:00</published>
+    <updated>2020-08-25T13:03:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-894e-wingate-testing-bike-anaerobic-testing-ergometer"/>
+    <title>Monark 894E Wingate Testing Bike - Anaerobic Testing Ergometer</title>
+    <s:type></s:type>
+    <s:vendor>Hci Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/894side.jpg?v=1598385809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hci Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The </span><strong itemprop="model" itemtype="http://schema.org/product">Monark 894E</strong><span> is the world’s most widely used test bike for fitness tests and work tests. It is easy to calibrate and just as easy to check when in use. You know that all the values are always accurate.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atc_tag</s:tag>
+    <s:variant>
+      <id>https://hcifitness.com/products/4488474853474</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8399.00</s:price>
+      <s:sku>894E</s:sku>
+      <s:grams>81193</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4338958893154</id>
+    <published>2019-11-26T11:08:55-08:00</published>
+    <updated>2019-11-26T11:08:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-828e-submax-vo2-cycle-ergometer-bike-for-submaximal-vo2-testing"/>
+    <title>Monark 828E SubMax VO2 Cycle Ergometer - Bike for SubMaximal VO2 Testing</title>
+    <s:type></s:type>
+    <s:vendor>Hci Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/828.jpg?v=1574796183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hci Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>ACSM Member Discounts Available </h2>
+<h2>
+<em>Call Now! 206-739-5400</em> </h2>
+<h2><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/ACSM_480x480.png?v=1574703952" alt="ACSM - Lode Excalibur"></h2>
+<h2></h2>
+<p><span>The </span><strong itemprop="model" itemtype="http://schema.org/product">Monark 828E</strong><span> is the world’s most widely used test bike for fitness tests and work tests including SubMaximal (SubMax) VO2 and VO2 Max Testing.  The Monark 828E can be easy to calibrated using a hanging weight.  With over 100 years experience at Monark, you know that all the WATT and KP values are always accurate.</span></p>
+<p> </p>
+<table border="1" class="tftablem">
+<tbody>
+<tr>
+<th colspan="2"><strong>Monark 828E</strong></th>
+</tr>
+<tr>
+<th colspan="2"><strong>Applications</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>Heart Rate</strong></td>
+<td>
+<h2 class="icon fa-check">With Heart Rate Strap</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Testing</strong></td>
+<td>
+<h2 class="icon fa-check">Manual Testing</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>APFT</strong></td>
+<td>
+<h2 class="icon fa-check">Yes</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Constant Power</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Fixed Protocol</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Software</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>Manual Entery</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>PC Connection</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>ECG</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Wheel Chair</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Mechanical Calibration</strong></td>
+<td>
+<h2 class="icon fa-check">Yes</h2>
+</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Resistance</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>System</strong></td>
+<td>Pendulum</td>
+</tr>
+<tr>
+<td align="center"><strong>Workload Range</strong></td>
+<td>4-1400W</td>
+</tr>
+<tr>
+<td align="center"><strong>Flywheel</strong></td>
+<td>44 lbs. (20 kg)</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Display</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>RPM</strong></td>
+<td>
+<h2 class="icon fa-check">Yes</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Heart Rate</strong></td>
+<td>
+<h2>5 kHz Receiver</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Time</strong></td>
+<td>
+<h2 class="icon fa-check">Yes</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Speed</strong></td>
+<td>
+<h2 class="icon fa-check">MPH or KPH</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Distance</strong></td>
+<td>
+<h2 class="icon fa-check">Miles / KM</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Watt</strong></td>
+<td>
+<h2 class="icon fa-check">Yes</h2>
+</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Connectivity</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>RS232</strong></td>
+<td>
+<h2>No</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>USB</strong></td>
+<td>
+<h2>No</h2>
+</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Tests</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>Worktest Manual</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>RPM Dependent</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Sprint</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Worktest Incremental</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>RPM Dependnet</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Astrand</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>Manual</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>YMCA</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>Manual</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>WHO</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>Manual</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>PWC</strong></td>
+<td>
+<h2 class="icon fa-check">
+<span> </span>Manual</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Wingate</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Time Trail</strong></td>
+<td>
+<h2>-</h2>
+</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Frame</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>Type</strong></td>
+<td>Monark Classic</td>
+</tr>
+<tr>
+<td align="center"><strong>Handlebar</strong></td>
+<td>Monark Handlebar</td>
+</tr>
+<tr>
+<td align="center"><strong>Stem</strong></td>
+<td>Monark Standard</td>
+</tr>
+<tr>
+<td align="center"><strong>Seatpost</strong></td>
+<td>Monark Standard</td>
+</tr>
+<tr>
+<td align="center"><strong>Saddle</strong></td>
+<td>Saddle, blue</td>
+</tr>
+<tr>
+<td align="center"><strong>Bottom Bracket</strong></td>
+<td>68/122 mm</td>
+</tr>
+<tr>
+<td align="center"><strong>Crank</strong></td>
+<td>Steel, 170 mm</td>
+</tr>
+<tr>
+<td align="center"><strong>Pedals</strong></td>
+<td>9/16", pedals with foot straps</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Unit Dimensions</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>Max user weight</strong></td>
+<td>551 lbs. (250 kg)</td>
+</tr>
+<tr>
+<td align="center"><strong>Length (mm)</strong></td>
+<td>1120 mm</td>
+</tr>
+<tr>
+<td align="center"><strong>Width (mm)</strong></td>
+<td>518 mm at handlebar<br>640 mm at support legs</td>
+</tr>
+<tr>
+<td align="center"><strong>Height (mm)</strong></td>
+<td>945-1295 mm at handlebar<br>780-1105 mm at saddle</td>
+</tr>
+<tr>
+<td align="center"><strong>Unit Weight</strong></td>
+<td>115 lbs. (52 kg)</td>
+</tr>
+<tr>
+<td align="center"><strong>Power Requirements</strong></td>
+<td>Self Powered Unit (Batteries in Display)</td>
+</tr>
+<tr>
+<td align="center"><strong>Origin</strong></td>
+<td>Made in Sweden</td>
+</tr>
+<tr>
+<td align="center"><strong>Certifications</strong></td>
+<td>ISO 9001:2008<br>CE 93/42/EEC MDD Class IIa</td>
+</tr>
+<tr>
+<th colspan="2"><strong>Shipping &amp; Assembly</strong></th>
+</tr>
+<tr>
+<td align="center"><strong>Shipping</strong></td>
+<td>Freight</td>
+</tr>
+<tr>
+<td align="center"><strong>Assembly Required</strong></td>
+<td>Handlebar, Pedals, Support Legs</td>
+</tr>
+</tbody>
+</table>
+<p><span>Cage Code- 4HLZ9<br>NACIS Code - 33992<br>Contract Number: GS-03F-0148W<br>Special Item Number: 192-08, 251-1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atc_tag</s:tag>
+    <s:variant>
+      <id>https://hcifitness.com/products/4338958893154</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3899.00</s:price>
+      <s:sku>828E</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4338325880930</id>
+    <published>2019-11-25T09:33:38-08:00</published>
+    <updated>2019-11-25T09:33:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/monark-lc7tt-novo-time-trial-electronically-controlled-testing-ergometer-compare-to-lode-excalibur-sport"/>
+    <title>Monark LC7TT NOVO Electronically Controlled Testing Ergometer - Time Trial Ergometer Cycle</title>
+    <s:type>Ergometer</s:type>
+    <s:vendor>HCI Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/lc7.jpg?v=1574704248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HCI Fitness<br>
+        <strong>Type: </strong>Ergometer<br>
+        <strong>Price: </strong>
+            19999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="box"><header>
+<h2>ACSM Member Discounts Available </h2>
+<h2>
+<em>Call Now! 206-739-5400</em> </h2>
+<h2><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/ACSM_480x480.png?v=1574703952" alt="ACSM - Lode Excalibur "></h2>
+<h2><br></h2>
+<h2>Perfect Fit Frame</h2>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc6_seat_480x480.jpg?v=1574703416" alt="" width="481" height="479"></p>
+</header>
+<h3>Adjustable Seat Post</h3>
+<p>Fully adjustable setting of the seat position, within 20 cm horizontally. The seat post scale in centimeters on the side.</p>
+<p> <img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc7_handlebar_480x480.jpg?v=1574703538" alt="Monark LC7TT Time Trial Electronically Controlled Ergometer for VO2 Max Bike - Compare to Lode Excalibur"></p>
+<h3>Adjustable Handlebar</h3>
+<p>Stem and handlebar fully adjustable for height and length. With an adjustable length of 20 cm.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/lc7_q_480x480.jpg?v=1574703659" alt="Monark LC7TT Novo Electronically Controlled Ergometer -Compare to Lode Excalibur "></p>
+<h3>Adjustable Q-Factor</h3>
+<p>Same bottom bracket shell as ordinary road bikes and both the bottom bracket and cranks are easy to change.</p>
+<br></section>
+<hr>
+<section class="box"><header>
+<h2>NOVO Technology</h2>
+</header>
+<h3><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_control_480x480.jpg?v=1574703880" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur "></h3>
+<h3>Novo Control Unit</h3>
+<p>With the new control unit we have secured future platform for Monark Ergometers. Connections that are compatible with the most common ECG, Spirometers and other external analysis equipment.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_display_480x480.jpg?v=1574703813" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur "></p>
+<h3>Novo Display</h3>
+<p>Monark Novo display unit can run the bike direct from the Resistive LCD touch screen. It is easy to set your training target with distance, time or calories with the user friendly interface.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/novo_motor_480x480.jpg?v=1574703924" alt="Monark LC7TT - Electronically Controlled CPET Ergometer - Compare to Lode Excalibur "></p>
+<h3>Novo Motor</h3>
+<p>The new stronger, high quality, linear motor has superfast reactions, making the Monark novo motor unit 400% faster than previous models. This provides increased accuracy during testing, and a better ride feeling, with a more efficient workout</p>
+<br></section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>atc_tag</s:tag>
+    <s:variant>
+      <id>https://hcifitness.com/products/4338325880930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19999.00</s:price>
+      <s:sku>LC7TT</s:sku>
+      <s:grams>106594</s:grams>
+    </s:variant>
+  </entry>
+</feed>

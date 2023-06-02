@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hcifitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hcifitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hcifitness.com/collections/accessories.atom"/>
+  <title>Hci Fitness</title>
+  <updated>2023-05-03T13:55:05-07:00</updated>
+  <author>
+    <name>Hci Fitness</name>
+  </author>
+  <entry>
+    <id>https://hcifitness.com/products/6866830327906</id>
+    <published>2023-05-03T13:55:05-07:00</published>
+    <updated>2023-05-03T13:55:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/150-results-sheets-mediana-i55"/>
+    <title>150 Results Sheets - Mediana i55</title>
+    <s:type></s:type>
+    <s:vendor>Hci Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hci Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>150 Results Sheets - Mediana i55</p>
+<p>Free Shipping</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/6866830327906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>i55-RS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4357537071202</id>
+    <published>2023-01-25T12:10:45-08:00</published>
+    <updated>2023-01-25T12:10:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/hci-fitness-heart-rate-strap"/>
+    <title>HCI Fitness Heart Rate Chest Strap</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/heart_Rate.jpg?v=1579725765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5.3 Hz Non-Coded Signal</p>
+<p> </p>
+<p>For use with HCI Fitness products including: PhysioSteps, VersaStep, CardioStep, PhysioMax, PhysioTrainers, PhysioMill and More.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4357537071202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>TXF</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/6793198272610</id>
+    <published>2022-10-10T09:20:20-07:00</published>
+    <updated>2022-10-10T09:20:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/wipeable-velcro-hand-grip-accessory-for-exercise-one-side"/>
+    <title>Wipeable Velcro Hand Grip Accessory for Exercise - One Side</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/MMHandGrip.jpg?v=1665418821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">SKU: HCI-HG-W</p>
+<p data-mce-fragment="1">The HCI Fitness Wipeable Hand Grip for Upper Body Exercise. <span data-mce-fragment="1">Our optional hand grip accessory quickly and easily Velcros around the users wrist, hand and product handle to provide support and comfort during training. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Water resistant coating for easy wipeable cleaning. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sold individually - Universal Hand Grip</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/6793198272610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>HCI-HG-W</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/6667262754914</id>
+    <published>2022-03-08T14:37:58-08:00</published>
+    <updated>2022-03-08T14:37:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/omnitrainer-optional-wheelchair-hooks"/>
+    <title>OmniTrainer Optional Wheelchair Hooks</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/OTHooks.jpg?v=1646779079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">OmniTrainer Optional Wheelchair Hooks (pair)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/6667262754914</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>OT-Hooks</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4545160249442</id>
+    <published>2021-02-03T14:46:09-08:00</published>
+    <updated>2021-02-03T14:46:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/hci-fitness-arm-rest-accessory"/>
+    <title>HCI Fitness Folding Arm Rest Accessory</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/LXTAR6.jpg?v=1612392341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add comfort and security to your HCI Fitness Recumbent Cross Trainer or Total Body Trainer with the optional Folding Arm Rest Kit. </p>
+<p> </p>
+<p>The Folding Arm Rest Kit is Compatible with PhysioStep HXT. PhysioStep LTD, PhysioStep LXT, PhysioStep PRO, CardioStep, VersaStep and PhysioMax.</p>
+<p style="text-align: center;"><em><strong>Contact Heart Rate is Only Compatible if your Machine Already has Contact Heart Rate. </strong></em></p>
+<p style="text-align: center;"><em><strong>*Swivel Seat Not Included</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4545160249442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>HCI-AR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4508320235618</id>
+    <published>2020-10-08T15:41:01-07:00</published>
+    <updated>2020-10-08T15:41:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/seat-belt-accessory"/>
+    <title>Seat Belt Accessory</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/PS-Belt.jpg?v=1602196862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span data-mce-fragment="1"><iframe src="https://www.youtube.com/embed/UPzxv64jYx0" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p>
+<p><span data-mce-fragment="1">If you already have a PhysioStep product, please check with HealthCare International to ensure compatibility before ordering. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4508320235618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>PS-Belt</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4499029852258</id>
+    <published>2020-09-14T13:42:48-07:00</published>
+    <updated>2020-09-14T13:42:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/physiostep-stabilization-kit-inclusive-accessories-kit"/>
+    <title>PhysioStep Stabilization Kit Inclusive Accessories Kit</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/PS-Stabilization1_1.jpg?v=1600116436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1080.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Included in Kit</p>
+<p data-mce-fragment="1">2 Hand Grips</p>
+<p data-mce-fragment="1">2 Leg Stabilizers</p>
+<p data-mce-fragment="1">1 Seat Belt</p>
+<p data-mce-fragment="1"><iframe src="https://www.youtube.com/embed/UPzxv64jYx0" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">The PhysioStep LXT- PhysioStep MDX - PhysioStep PRO and VersaStep  are now compatible with the PhysioStep Stabilization Accessories Kit! The optional bi-lateral leg stabilizers, hand grips, and retractable seat belt make the PhysioStep LXT more accessible than ever! </p>
+<p data-mce-fragment="1">If you already have a PhysioStep product, please check with HealthCare International to ensure compatibility before ordering. </p>
+<a data-mce-fragment="1" class="button style1" href="http://www.hcifitness.com/PhysioStep-Stabilization-Kit" data-mce-href="http://www.hcifitness.com/PhysioStep-Stabilization-Kit"></a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4499029852258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1080.00</s:price>
+      <s:sku>PS-ACC BOX</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4451237199970</id>
+    <published>2020-06-19T11:35:18-07:00</published>
+    <updated>2020-06-19T11:35:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/leg-stabilizer-one-side"/>
+    <title>Leg Stabilizer - One Side</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/PS-Leg1.jpg?v=1592591838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            425.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leg Stabilizer - One Side<br></p>
+<p> Works with PhysioStep LXT - PhysioStep MDX - PhysioStep PRO - VersaStep </p>
+<p><iframe src="https://www.youtube.com/embed/UPzxv64jYx0" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4451237199970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>PS-Leg</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4448505233506</id>
+    <published>2020-06-15T12:47:09-07:00</published>
+    <updated>2020-06-15T12:47:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/u-shaped-handles-for-physiotrainer-and-etrainer"/>
+    <title>U Shaped Handles For PhysioTrainer and ETrainer</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/EPATAP-U.jpg?v=1592255211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>U Shaped Handles For PhysioTrainer and ETrainer (Pair)</p>
+<p><br>Select Free Shipping in Cart</p>
+<p>*U Shaped Handles Included with ETrainer AP*</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4448505233506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>U-Handle</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4342921855074</id>
+    <published>2019-12-10T11:18:43-08:00</published>
+    <updated>2019-12-10T11:18:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/ortho-hand-grip-for-exercise"/>
+    <title>Velcro Neoprene Hand Grip Accessory for Exercise - One Side</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/PS-Hand.jpg?v=1576005688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">SKU: PS-Hand Grip</p>
+<h1 style="text-align: center;">Only Available in the Stabilization Kit </h1>
+<table width="100%">
+<tbody>
+<tr style="height: 116.208px;">
+<td style="width: 51.0237%; height: 116.208px;">
+<p><a href="https://www.hcifitness.co/collections/accessories/products/physiostep-stabilization-kit-inclusive-accessories-kit"><img alt="" src="https://cdn.shopify.com/s/files/1/1333/0475/files/PS-Stabilization_480x480.jpg?v=1665418925" width="170" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
+<p style="text-align: center;"><a href="https://www.hcifitness.co/collections/accessories/products/physiostep-stabilization-kit-inclusive-accessories-kit">Stabilization Kit</a></p>
+<p style="text-align: center;"><a href="https://www.hcifitness.co/collections/accessories/products/physiostep-stabilization-kit-inclusive-accessories-kit"><span style="color: #ed1111;"><em><strong>In Stock</strong></em></span></a></p>
+</td>
+<td style="width: 46.3932%; height: 116.208px;">
+<p> <a href="https://www.hcifitness.co/products/wipeable-velcro-hand-grip-accessory-for-exercise-one-side"><img src="https://cdn.shopify.com/s/files/1/1333/0475/files/MMHandGrip_480x480.jpg?v=1665418582" alt="" width="184" height="151" style="display: block; margin-left: auto; margin-right: auto;" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1333/0475/files/MMHandGrip_480x480.jpg?v=1665418582"></a></p>
+<p style="text-align: center;"><a href="https://www.hcifitness.co/products/wipeable-velcro-hand-grip-accessory-for-exercise-one-side">HCI Wipeable Hand Grip </a></p>
+<p style="text-align: center;"><a href="https://www.hcifitness.co/products/wipeable-velcro-hand-grip-accessory-for-exercise-one-side"><span style="color: #ed1111;"><em><strong>In Stock</strong></em></span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><iframe src="https://www.youtube.com/embed/UPzxv64jYx0" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p>The HCI Fitness Hand Grip for Upper Body Exercise. <span>Our optional hand grip accessory quickly and easily Velcros around the users wrist, hand and product handle to provide support and comfort during training. </span></p>
+<p><span>Neoprene material requires washing for cleaning. </span></p>
+<p><span>Sold individually - Universal Hand Grip</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4342921855074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>PS-Hand Grip</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hcifitness.com/products/4333943029858</id>
+    <published>2019-11-14T10:24:31-08:00</published>
+    <updated>2019-11-14T10:24:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hcifitness.com/products/etrainer-ortho-pedals"/>
+    <title>Ortho Pedals with Heel Cup for Exercise Bike</title>
+    <s:type></s:type>
+    <s:vendor>HealthCare International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1333/0475/products/E-PAT_Pedal_NEw.jpg?v=1573756061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HealthCare International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Pair of Ortho Pedals 9/16th Thread - Fits PhysioTrainer, CyclePlus, PhysioCycle XT, and eTrainer products</p>
+<p> </p>
+<p><em>All Parts Sales are Final </em><br></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hcifitness.com/products/4333943029858</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>otho-pedals</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>
